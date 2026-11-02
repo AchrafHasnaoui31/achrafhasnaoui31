@@ -1,185 +1,370 @@
 # Achraf Hasnaoui
 
-## Software engineering portfolio
+## Computer engineering student | Software · AI · Cybersecurity · Cloud · Embedded Systems
 
-I build practical software systems across backend engineering, frontend applications, mobile development, applied AI, security-aware data systems, and interactive experiences.
+I am a third-year **Computer Engineering student at ENSIT** with a multidisciplinary profile at the intersection of software engineering, artificial intelligence, cybersecurity, DevOps, cloud foundations, embedded systems, IoT, robotics, and hardware prototyping.
 
-My repositories document more than final interfaces: they show how I approach a problem, define boundaries, model domain rules, integrate technologies, validate behavior, and identify the next engineering improvements.
+I enjoy understanding a problem from the inside: clarifying the need, modeling the system, building a working solution, testing its behavior, analyzing its risks, and documenting what should be improved next. My projects range from full-stack business applications and AI platforms to security laboratories, connected devices, mobile applications, desktop software, and interactive games.
+
+I am currently looking for a **final-year internship (PFE) in France** in one of these areas:
+
+- Software Engineering, Backend, or Full Stack Development
+- AI Engineering, Machine Learning, Generative AI, LLM, Data Engineering, or MLOps
+- Cloud, DevOps, SRE, Platform Engineering, or Infrastructure
+- Cybersecurity, DevSecOps, Application Security, or Cloud Security
+- Embedded Systems, Embedded Linux, IoT, Robotics, Mechatronics, or R&D
 
 [![GitHub](https://img.shields.io/badge/GitHub-AchrafHasnaoui31-181717?style=flat-square&logo=github)](https://github.com/AchrafHasnaoui31)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-2563EB?style=flat-square)](https://github.com/AchrafHasnaoui31/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20projects-2563EB?style=flat-square)](https://achrafhasnaoui31.github.io/portfolio/)
 [![Technical blog](https://img.shields.io/badge/Blog-Engineering%20notes-0F766E?style=flat-square)](https://achrafhasnaoui31.github.io/blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achraf-hasnaoui-679866250/)
 
-## What I work on
+## My professional identity
 
-| Area | Engineering focus |
+### A software engineer who understands the whole system
+
+I am comfortable moving between frontend interfaces, backend services, databases, APIs, Linux environments, automation workflows, and security constraints. This helps me reason about both user experience and the technical consequences behind it.
+
+### An AI engineer focused on usable systems
+
+My AI work combines data preparation, signal processing, model experimentation, evaluation, deployment formats, LLM integration, retrieval, and multi-agent workflows. I am particularly interested in the engineering required to make AI systems traceable, testable, constrained, and useful in a real application.
+
+### A security-aware builder
+
+Through Securinets ENSIT, CTF competitions, forensics, cryptography, security labs, access-control projects, and controlled IoT experiments, I develop an attacker-aware mindset. I try to identify how a system can fail before assuming that a feature is secure.
+
+### A hands-on systems and hardware learner
+
+My interests extend beyond application code to ESP32 devices, sensors, Wi-Fi/Bluetooth communication, embedded Linux, robotics, electronics, mechanical design, fabrication, and hardware/software integration. I enjoy turning an idea into a physical prototype and improving it through testing.
+
+## What I bring to a team
+
+| Strength | How it appears in my work |
 |---|---|
-| Backend systems | REST APIs, domain models, validation, authentication, authorization, persistence, and integration workflows |
-| Web applications | Angular interfaces, responsive business workflows, dashboards, forms, and API-driven state |
-| Applied AI | ML inference services, agent orchestration, evaluation boundaries, and reproducible experiments |
-| Mobile development | Flutter applications, Firebase integrations, remote-monitoring workflows, and user-facing data |
-| Desktop software | JavaFX interfaces, JDBC persistence, SQLite workflows, and operational CRUD applications |
-| Security engineering | RBAC/ABAC concepts, data protection models, threat-aware design, and responsible technical research |
-| DevOps foundations | Containers, CI/CD, environment configuration, deployment documentation, and observability direction |
-| Technical communication | Architecture documentation, problem statements, limitations, roadmaps, and engineering case studies |
+| Analytical thinking | Break complex problems into models, constraints, workflows, and testable behaviors |
+| Curiosity | Explore software, AI, security, networks, electronics, mechanics, and scientific subjects |
+| Autonomy | Learn tools independently, build prototypes, investigate failures, and take a project from idea to demonstration |
+| Rigor | Pay attention to validation, authorization, configuration, reproducibility, and documentation |
+| Problem solving | Practice algorithms, data structures, competitive programming, CTF challenges, debugging, and system analysis |
+| Adaptability | Move between Java, Python, TypeScript, C/C++, mobile, cloud, embedded, and security contexts |
+| Creativity | Design AI workflows, robots, interactive applications, security labs, and practical prototypes |
+| Team spirit | Contribute to internships, technical clubs, collaborative projects, and knowledge-sharing activities |
+| Communication | Explain technical decisions through documentation, blog posts, workshops, and project case studies |
+| Leadership and initiative | Participate in technical activities, help organize security content, and create projects beyond coursework |
+| Continuous learning | Combine engineering studies, certifications, competitions, self-training, and experimentation |
 
-## Selected projects
+## Technical domains
 
-### [Cadio Agent Ops](https://github.com/AchrafHasnaoui31/cadio-agent-ops)
+### Software engineering and full stack
 
-Containerized multi-agent engineering project focused on service boundaries, gateway behavior, audio/ML components, experiment tracking, tests, and CI/CD foundations.
+- Java, Python, JavaScript, TypeScript, SQL, C/C++, PHP, Dart, and C#.
+- Spring, Spring Boot, JEE, Flask, Django, FastAPI, React, Angular, Ionic, Flutter, JavaFX, and Unity.
+- REST API design, object-oriented programming, application modeling, validation, authentication, authorization, and data management.
+- PostgreSQL, MySQL, MariaDB, MongoDB, SQLite, Firebase, and vector databases.
+- Git, GitHub, Linux, Unix, Bash scripting, debugging, and collaborative development.
 
-**Why it matters:** demonstrates how an AI-oriented prototype can be organized as an observable, testable system instead of a single opaque script.
+### AI, data, and LLM systems
+
+- Machine Learning, Deep Learning, classification, anomaly detection, forecasting, model evaluation, and optimization.
+- PyTorch, Librosa, ONNX Runtime, FastAPI, Pydantic, and scientific Python workflows.
+- Audio and physiological signal processing: preprocessing, MFCC, ZCR, spectrograms, feature extraction, CNNs, Transfer Learning, and Transformer-CNN models.
+- LLMs, Generative AI, fine-tuning, QLoRA, PEFT, embeddings, RAG, vector search, prompt engineering, and AI agents.
+- LangGraph, Qdrant, ChromaDB, Qwen, Llama, Ollama, vLLM, GGUF, and INT4/INT8 quantization concepts.
+- MLflow, experiment tracking, model registry, ONNX export, continuous testing, and MLOps/LLMOps foundations.
+
+### Cloud, DevOps, and reliability
+
+- AWS Cloud fundamentals and client/server cloud architectures.
+- Docker, Docker Compose, GitHub Actions, CI/CD, automated builds, validation, and deployment.
+- Linux services, Bash automation, Git workflows, configuration management, monitoring, observability, scalability, availability, and reliability concepts.
+- Infrastructure as Code and platform engineering foundations.
+
+### Cybersecurity and DevSecOps
+
+- Reconnaissance, enumeration, attack-surface analysis, vulnerability analysis, pentesting in authorized labs, and security testing.
+- Forensics, digital investigation, network analysis, traffic analysis, incident understanding, and security awareness.
+- Nmap, Wireshark, Metasploit, Ghidra, Burp Suite, Linux security tooling, Hack The Box, and PicoCTF.
+- RBAC, MAC, DAC, SBAC, Chinese Wall, IAM, access-control policies, separation of duties, and information-flow concepts.
+- Secure SDLC, GitHub Actions, version-control security, AWS IAM fundamentals, and cloud-security principles.
+- IoT and embedded security, Wi-Fi/Bluetooth experimentation, authentication, encryption, OTP, and controlled hardware security labs.
+
+### Embedded systems, IoT, robotics, and hardware
+
+- C, C++, Python, ESP32, Arduino, ESP-IDF, embedded Linux, firmware, drivers, peripherals, debugging, and validation.
+- Sensors, actuators, GPIO, ADC, PWM, UART, I2C, SPI, Wi-Fi, Bluetooth/BLE, MQTT, HTTP/REST, JSON, and Firebase.
+- Motor control, mobile robotics, autonomous movement, voice control, embedded AI, and remote device control.
+- Electronics, circuit integration, wiring, power considerations, and reading technical schematics.
+- SolidWorks, CATIA, AutoCAD, 3D modeling, assemblies, mechanical design, machining, turning, 3D printing, laser cutting, engraving, and G-code.
+
+## Professional experience
+
+### Airstruct Consulting — Software Development / Full Stack
+
+**June 2026 – August 2026 · Tunisia**
+
+- Designed and developed a full-stack business application with Spring on the backend.
+- Built CRM workflows for collaborators, customer appointments, reports, scheduled trips, and commercial activities.
+- Contributed to KPI dashboards for individual and global performance monitoring.
+- Participated in requirements analysis, design, implementation, testing, validation, and delivery.
+- Worked with Git and a team-oriented development process.
+
+### Bako Motors — Software Development
+
+**June 2025 – July 2025 · Automotive sector, Tunisia**
+
+- Contributed to a software platform for vehicle tracking and production operations.
+- Worked on vehicle management, test tracking, anomaly reporting, and maintenance operations.
+- Participated in feature design, implementation, testing, validation, and integration.
+- Experienced software development in an industrial automotive context where traceability matters.
+
+### Fiverr / Independent Developer
+
+**January 2022 – June 2024 · Remote**
+
+- Developed e-commerce, showcase, and e-learning websites for clients.
+- Built small Python tools for data encryption and compression.
+- Managed client needs, delivery constraints, implementation, and communication independently.
+
+## Projects that represent my profile
+
+### [CardioAgent-Ops](https://github.com/AchrafHasnaoui31/cadio-agent-ops)
+
+An AI-oriented, containerized platform for cardio-acoustic signal analysis and intelligent workflows.
+
+**What it demonstrates:**
+
+- Data engineering and preprocessing of heterogeneous audio/signal data.
+- Benchmarking of Decision Tree, SVM, CNN, Transfer Learning, and Transformer-CNN approaches.
+- MLflow experiment tracking, model registry concepts, and ONNX export.
+- LLM fine-tuning with QLoRA/PEFT, retrieval-augmented generation, vector search, and multi-agent orchestration.
+- Guardrails, Pydantic validation, automated tests, Docker Compose, and GitHub Actions CI/CD.
+
+**Why it matters:** this project reflects my interest in taking AI beyond a notebook and organizing it as a traceable, testable, service-oriented system.
 
 ### [Planning CRM Tunisia](https://github.com/AchrafHasnaoui31/CRM-planning-tunisie)
 
-Full-stack CRM for customer, contact, visit-planning, and follow-up workflows.
+Full-stack CRM for transport-related business operations, collaborators, appointments, reports, scheduled trips, and KPIs.
 
-**Technical focus:** Angular frontend, Spring Boot backend, PostgreSQL persistence, JWT-based authentication, email workflows, OpenAPI documentation, and role-aware business operations.
+**What it demonstrates:**
 
-**Engineering problem:** turn operational planning into explicit domain workflows while keeping frontend behavior, API contracts, validation, and deployment configuration understandable.
+- Angular and Spring Boot integration.
+- PostgreSQL persistence and domain-oriented workflows.
+- JWT authentication, role-aware behavior, email-related flows, and OpenAPI documentation.
+- Dashboard thinking and the transformation of business activity into trackable data.
+
+**Why it matters:** it connects software engineering fundamentals with a concrete operational problem: making commercial activity and planning easier to follow.
 
 ### [Remote Medical Monitoring](https://github.com/AchrafHasnaoui31/Projet-de-suivi-medicale-a-distance)
 
-Flutter, Firebase, Flask, and machine-learning prototype for remote-monitoring workflows involving patients, healthcare professionals, measurements, and predictive analysis.
+Flutter, Python, Firebase, IoT, and AI prototype connecting patients and healthcare professionals.
 
-**Engineering problem:** connect mobile data capture, backend inference, and role-specific experiences while documenting privacy, safety, and the difference between a prototype and a clinical product.
+**What it demonstrates:**
 
-### [Angular Car Rental](https://github.com/AchrafHasnaoui31/ProjetAnguar-car-managing-)
+- Mobile data collection and patient/doctor workflows.
+- Physiological measurements and sensor-oriented data.
+- Backend communication, anomaly detection, forecasting, alerts, and notifications.
+- Awareness of privacy, safety, and the difference between an academic prototype and a clinical product.
 
-Angular application for vehicle discovery, booking, and reservation-oriented user flows.
+### [Personal Robot Assistant](https://github.com/AchrafHasnaoui31)
 
-**Technical focus:** component-based frontend design, forms, user interaction, responsive presentation, and the separation between UI state and future service integration.
+A personal robotics project combining mechanical design, fabrication, electronics, embedded software, sensors, motors, voice interaction, Wi-Fi control, expressive output, and autonomous movement.
 
-### [Pharmacy Management](https://github.com/AchrafHasnaoui31/AppGestionPharmacie)
+**Why it matters:** it represents my hands-on ability to connect mechanical, electronic, software, and AI concerns in one physical system.
 
-JavaFX desktop application for pharmacy-management workflows with local relational persistence.
+### Embedded and IoT security projects
 
-**Technical focus:** JavaFX screens, JDBC, SQLite, validation, stock-oriented operations, and maintainable desktop application structure.
+My CV documents several personal prototypes and controlled labs:
+
+- ESP32 biometric access-control prototype with authorization management.
+- Smart key for protected credentials and OTP-based access.
+- Wi-Fi and Bluetooth/BLE security laboratories.
+- ESP32 HID security-testing prototype in a controlled environment.
+- Sensor, actuator, and embedded communication experiments.
+
+These projects are intended for learning and authorized laboratory use. They help me understand both how connected devices work and how their trust boundaries can fail.
 
 ### [Bank Access Control System](https://github.com/AchrafHasnaoui31/access-controle-system-for-an-internationale-bank-)
 
-Security-oriented modeling project exploring access-control policies for an international banking context.
+Security-oriented application and modeling work around RBAC, MAC, DAC, SBAC, and Chinese Wall concepts.
 
-**Technical focus:** role-based and attribute-aware authorization concepts, information-flow models, separation of duties, and policy reasoning.
+**Why it matters:** access control is not only a login screen. It is a policy problem involving roles, permissions, information flow, separation of duties, and auditable decisions.
+
+### [Securinets CTF platform and activities](https://github.com/AchrafHasnaoui31)
+
+As a member of the Securinets ENSIT technical team since 2024, I participate in:
+
+- CTF challenge design.
+- Forensics and cryptography workshops.
+- Offensive-security practice in authorized environments.
+- Digital investigation and security awareness activities.
+- Technical events and public-facing learning sessions.
+
+### [Angular Car Rental](https://github.com/AchrafHasnaoui31/ProjetAnguar-car-managing-)
+
+Frontend project for vehicle discovery, booking, and reservation-oriented workflows.
+
+### [Pharmacy Management](https://github.com/AchrafHasnaoui31/AppGestionPharmacie)
+
+JavaFX desktop application using JDBC and SQLite for pharmacy-management workflows.
+
+### [Airport Management and Simulation](https://github.com/AchrafHasnaoui31)
+
+C++ object-oriented modeling and simulation of flights, runways, passengers, tickets, pilots, and staff.
 
 ### [Unity Game Project](https://github.com/AchrafHasnaoui31/Projet-Unity-Prd1)
 
-Unity game-development project covering scenes, player movement, score, timer, lives, hazards, level progression, audio, and game-state transitions.
-
-**Engineering problem:** coordinate real-time input, physics-adjacent behavior, scene flow, feedback, and terminal states in a playable interactive system.
+Interactive game project covering scenes, player movement, score, timer, lives, hazards, progression, audio, and game-state transitions.
 
 ### [Brick Breaker](https://github.com/AchrafHasnaoui31/bricks-bricking-game)
 
-Small HTML5 Canvas arcade game built with JavaScript, jQuery, CSS, image assets, and browser audio.
-
-**Technical focus:** animation loops, keyboard input, paddle/ball/brick collisions, score, lives, five-level progression, and visual/audio feedback.
+HTML5 Canvas game demonstrating animation loops, keyboard input, collision detection, score, lives, level progression, and audio feedback.
 
 ### [Technical blog](https://github.com/AchrafHasnaoui31/blog)
 
-Bilingual Hugo publication covering software engineering, security, embedded systems, applied AI, and technical experimentation.
+Bilingual Hugo publication about software engineering, AI, cybersecurity, IoT, embedded systems, protocols, and technical experimentation.
 
-**Technical focus:** Markdown content, PaperMod, bilingual routes, GitHub Pages deployment, reusable layouts, and controlled content automation.
+## Education
+
+### ENSIT — National Engineering School of Tunis
+
+**Engineering cycle in Computer Science · 2024–2027 · In progress**
+
+Current academic and self-directed interests include software architecture, algorithms, operating systems, networks, databases, cybersecurity, artificial intelligence, IoT, embedded systems, and engineering problem solving.
+
+### IPEIM — Preparatory Technological Cycle
+
+**2022–2024 · Honors: Bien**
+
+### Dkhilet Toujane High School
+
+**Technological Baccalaureate · 2021–2022 · Honors: Bien**
+
+## Competitive programming and problem solving
+
+I regularly train algorithmic reasoning and data-structure skills through LeetCode and Codeforces. I have also participated in:
+
+- Recursia
+- ENSTABYTE
+- Geeks Hack
+- IEEEXtreme
+
+I practice complexity analysis, graph and search algorithms, greedy methods, game algorithms, optimization, logic, and structured debugging.
+
+**Notable result:** first place in **Cat The Flag**.
+
+## Certifications
+
+- Cisco CCNA 1 — 2025
+- Cisco CCNA 2
+- DataCamp — Fundamentals of Artificial Intelligence
+
+## Languages
+
+| Language | Level |
+|---|---|
+| Arabic | Native |
+| French | Advanced |
+| English | Advanced |
+| German | Beginner |
+
+## How I approach engineering
+
+### I start with the problem
+
+I try to understand the user, the context, the constraints, the data, and the failure modes before choosing a technology. A technically impressive solution is not useful if it does not solve the right problem.
+
+### I learn by building
+
+I use projects, prototypes, labs, competitions, internships, and technical writing to turn concepts into observable behavior. I learn especially well when I can implement, test, break, and improve a system.
+
+### I connect disciplines
+
+My strongest perspective comes from combining software, AI, security, networks, embedded systems, electronics, mechanics, and data. This helps me see interfaces between systems and anticipate integration problems.
+
+### I care about reliability and security
+
+I pay attention to validation, permissions, secrets, traceability, reproducibility, logging, testing, and operational limits. In security work, I use controlled environments and respect authorization boundaries.
+
+### I communicate technical decisions
+
+I write detailed READMEs and publish technical articles because clear documentation helps teams review architecture, understand trade-offs, onboard contributors, and distinguish implemented behavior from future work.
+
+### I improve continuously
+
+I actively look for weaknesses in my own prototypes: missing tests, fragile configuration, unclear boundaries, unpinned dependencies, weak observability, accessibility gaps, and assumptions that need evidence.
+
+## Personal qualities
+
+- **Rigorous:** I care about correctness, validation, and reproducibility.
+- **Autonomous:** I can investigate a subject and build a first working solution independently.
+- **Curious:** I explore different technical domains instead of staying limited to one framework.
+- **Analytical:** I decompose complex systems and reason about constraints and failure modes.
+- **Creative:** I enjoy designing original applications, robots, AI workflows, and security labs.
+- **Adaptable:** I move between software, data, cloud, security, embedded, and hardware contexts.
+- **Persistent:** Competitive programming, CTFs, debugging, and physical prototyping require repeated iteration.
+- **Collaborative:** I value teamwork, communication, and sharing knowledge through clubs and documentation.
+- **Proactive:** I create projects, participate in technical communities, and seek practical experience.
+- **Organized:** I structure work through requirements, milestones, tests, documentation, and roadmaps.
+- **Responsible:** I distinguish prototypes from production systems and conduct security work only in authorized environments.
+- **Committed to learning:** I combine formal engineering education with self-training, certifications, competitions, and research.
 
 ## Engineering principles
 
-### Make the problem explicit
+1. Make the problem and success criteria explicit.
+2. Keep boundaries clear between UI, APIs, domain rules, data, integrations, and infrastructure.
+3. Treat security and privacy as design requirements.
+4. Test failure paths, not only happy paths.
+5. Prefer reproducible setup and explicit configuration.
+6. Document limitations instead of hiding them.
+7. Measure outcomes when evidence is available.
+8. Build the smallest useful slice before adding complexity.
+9. Keep learning through implementation and feedback.
 
-Before adding features, I document the user problem, the constraints, the actors involved, and the behavior that must be reliable. This keeps projects focused and makes trade-offs reviewable.
+## Current goals
 
-### Prefer explicit boundaries
-
-I separate UI responsibilities, API contracts, domain rules, persistence, integrations, and operational concerns. Clear boundaries make prototypes easier to test and future production work safer.
-
-### Treat security as a design concern
-
-Authentication, authorization, tenant isolation, secret handling, auditability, and data minimization should be considered when the domain is modeled—not added only after the interface is finished.
-
-### Validate behavior, not only compilation
-
-I value meaningful tests, negative authorization cases, workflow checks, reproducible setup instructions, and manual verification of user-critical paths.
-
-### Document limitations honestly
-
-Academic and personal projects often begin as prototypes. I distinguish shipped behavior from planned work, record known limitations, and use the roadmap to show how a system could become more reliable.
-
-## Technical toolbox
-
-### Languages
-
-`Java` · `TypeScript` · `JavaScript` · `Python` · `Dart` · `C#` · `SQL` · `HTML` · `CSS`
-
-### Frameworks and platforms
-
-`Spring Boot` · `Angular` · `Flutter` · `JavaFX` · `Flask` · `Unity` · `Hugo`
-
-### Data and infrastructure
-
-`PostgreSQL` · `SQLite` · `Firebase` · `Docker` · `GitHub Actions` · `GitHub Pages` · `Linux`
-
-### Engineering practices
-
-`REST APIs` · `JWT` · `OpenAPI` · `RBAC` · `ABAC` · `CI/CD` · `ML inference` · `Responsive UI` · `Technical documentation`
-
-The exact technology set varies by repository. Each project README is the source of truth for its implementation, setup, and current limitations.
-
-## Current priorities
-
-- Increase automated test coverage, especially for authorization and state transitions.
-- Improve observability and operational documentation in service-oriented projects.
-- Make configuration and secret management safer through environment-based practices.
-- Add reproducible builds, pinned dependencies, and stronger CI checks.
-- Turn promising prototypes into smaller, production-shaped slices.
-- Measure outcomes where meaningful instead of claiming unsupported performance results.
-- Continue publishing clear technical case studies in English and French.
-
-## What I am looking for
-
-I am interested in opportunities where I can contribute to:
-
-- Backend or full-stack product development.
-- Secure business workflows and access-controlled systems.
-- Applied AI/ML products with clear evaluation boundaries.
-- Developer tools, automation, and platform foundations.
-- Teams that value maintainable code, testing, documentation, and continuous improvement.
+- Complete a strong final-year internship in France.
+- Deepen practical expertise in AI engineering, MLOps, DevSecOps, Cloud, embedded systems, or software engineering.
+- Improve production practices around testing, observability, deployment, security, and secret management.
+- Turn promising prototypes into smaller, reliable, production-shaped systems.
+- Continue developing AI systems with evaluation, guardrails, traceability, and responsible data handling.
+- Build more complete IoT and embedded prototypes with stronger firmware, hardware, and security validation.
+- Publish technical case studies that make engineering decisions understandable to recruiters and collaborators.
 
 ## Repository map
 
 | Repository | Main theme |
 |---|---|
-| [cadio-agent-ops](https://github.com/AchrafHasnaoui31/cadio-agent-ops) | AI orchestration and service engineering |
-| [CRM-planning-tunisie](https://github.com/AchrafHasnaoui31/CRM-planning-tunisie) | Full-stack CRM and workflow management |
-| [Projet-de-suivi-medicale-a-distance](https://github.com/AchrafHasnaoui31/Projet-de-suivi-medicale-a-distance) | Mobile, backend, and ML monitoring |
+| [cadio-agent-ops](https://github.com/AchrafHasnaoui31/cadio-agent-ops) | AI orchestration, signal processing, ML tracking, and CI/CD |
+| [CRM-planning-tunisie](https://github.com/AchrafHasnaoui31/CRM-planning-tunisie) | Full-stack CRM and business workflows |
+| [Projet-de-suivi-medicale-a-distance](https://github.com/AchrafHasnaoui31/Projet-de-suivi-medicale-a-distance) | Flutter, IoT, backend, and AI monitoring |
 | [ProjetAnguar-car-managing-](https://github.com/AchrafHasnaoui31/ProjetAnguar-car-managing-) | Angular frontend and reservation flows |
-| [AppGestionPharmacie](https://github.com/AchrafHasnaoui31/AppGestionPharmacie) | JavaFX desktop and relational data |
-| [access-controle-system-for-an-internationale-bank-](https://github.com/AchrafHasnaoui31/access-controle-system-for-an-internationale-bank-) | Security and access-control modeling |
+| [AppGestionPharmacie](https://github.com/AchrafHasnaoui31/AppGestionPharmacie) | JavaFX, JDBC, SQLite, and desktop workflows |
+| [access-controle-system-for-an-internationale-bank-](https://github.com/AchrafHasnaoui31/access-controle-system-for-an-internationale-bank-) | Access control and security policy modeling |
 | [Projet-Unity-Prd1](https://github.com/AchrafHasnaoui31/Projet-Unity-Prd1) | Unity gameplay systems |
-| [bricks-bricking-game](https://github.com/AchrafHasnaoui31/bricks-bricking-game) | JavaScript Canvas game |
+| [bricks-bricking-game](https://github.com/AchrafHasnaoui31/bricks-bricking-game) | JavaScript and HTML5 Canvas game |
 | [web-app-team-managment-](https://github.com/AchrafHasnaoui31/web-app-team-managment-) | Team-management product specification |
 | [blog](https://github.com/AchrafHasnaoui31/blog) | Bilingual technical publication |
 | [portfolio](https://github.com/AchrafHasnaoui31/portfolio) | Personal portfolio |
 
-## Beyond the code
+## Interests outside software
 
-I use technical writing to make engineering decisions easier to inspect. My project READMEs focus on:
+My technical curiosity is supported by activities that develop discipline, resilience, spatial reasoning, and practical awareness:
 
-- The problem a system addresses.
-- The architecture and important boundaries.
-- The workflows and invariants that must remain correct.
-- The risks, limitations, and unresolved trade-offs.
-- A realistic roadmap for improving reliability and user value.
+- Taekwondo, kickboxing, Wing Chun, and boxing.
+- Long-distance mountain biking, climbing, camping, and survival techniques.
+- Chess and scientific reading, especially physics, technology, and engineering.
+- Robotics, electronics, mechanics, prototyping, fabrication, and new technologies.
 
-This approach helps recruiters and collaborators evaluate not only what was built, but also how the system was reasoned about.
-
-## Connect
+## Connect with me
 
 - **GitHub:** [@AchrafHasnaoui31](https://github.com/AchrafHasnaoui31)
 - **LinkedIn:** [Achraf Hasnaoui](https://www.linkedin.com/in/achraf-hasnaoui-679866250/)
-- **Blog:** [Hasnaoui Labs](https://achrafhasnaoui31.github.io/blog/)
+- **Portfolio:** [achrafhasnaoui31.github.io/portfolio](https://achrafhasnaoui31.github.io/portfolio/)
+- **Technical blog:** [achrafhasnaoui31.github.io/blog](https://achrafhasnaoui31.github.io/blog/)
+- **Email:** [achrafhas2003@gmail.com](mailto:achrafhas2003@gmail.com)
 
-For project-specific details, start with the README of the repository that interests you. It contains the verified setup, architecture, limitations, and roadmap for that project.
+If you are interested in software engineering, AI engineering, cybersecurity, DevSecOps, cloud, embedded systems, IoT, or R&D opportunities, feel free to connect with me on LinkedIn.
 
 ## Profile README scope
 
-This repository contains profile documentation only. Each project repository defines its own dependencies, licensing terms, deployment behavior, and implementation status.
+This is a personal profile README. Individual repositories remain the source of truth for their exact implementation, setup instructions, license, deployment status, and current limitations.
